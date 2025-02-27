@@ -2,8 +2,8 @@ Decision Tree 🌳
 
 Breast Cancer Wisconsin (Diagnostic) Data Set  
 O Data Set de câncer de mama é utilizado para estudar e desenvolver modelos de diagnóstico e prognóstico do câncer de mama.
-Estes Data Sets contêm informações sobre características de tumores mamários, que são classificados como benignos ou malignos.
-O objetivo dessa atividade será construir um modelo de classi cação, paradetecção da doença
+Este Data Set contêm informações sobre características de tumores mamários, que são classificados como benignos ou malignos.
+O objetivo dessa atividade será construir um modelo de classificação para detecção da doença.
 
 Carregamento e Tratamento de Dados 📊
 
